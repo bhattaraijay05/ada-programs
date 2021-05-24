@@ -1,0 +1,4 @@
+Dear students,
+Upload the program and output for the given statements
+1.Design an improved bubble sort which stops when it makes no exchanges on its pass through a list of integers.
+2. Find the minimum cost spanning tree of a given undirected graph using Prim’s algorithm.
