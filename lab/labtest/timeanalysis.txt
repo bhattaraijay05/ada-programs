@@ -1,0 +1,3 @@
+The time complexity of Floyd's Algorithm is O(V^3), where V is the number of vertices.
+For the above program, the number of vertices is 4, so the time complexity is:
+O(4^3).
